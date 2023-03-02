@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyATM</string>
+    <string name="account">Account: </string>
+    <string name="account_value">3000</string>
+    <string name="hand">Money in Hand: </string>
+    <string name="hand_value">0</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="spinner_title">Select the Amount</string>
+
+    <string-array name="select_amount">
+        <item>1000</item>
+        <item>500</item>
+        <item>200</item>
+        <item>100</item>
+    </string-array>
+</resources>

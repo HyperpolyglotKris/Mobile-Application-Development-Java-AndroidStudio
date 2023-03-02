@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="description">My name is Kristiyan Stoilov. I have a background in linguistics and speak multiple modern languages such as: English, French ,German, Spanish, Russian, Bulgarian, as well as a little bit of Mandarin and Japanese. Apart from that, I am also a volleyball athlete and a self-taught piano player. I have always been interested in computers and technology, which is why I want to work in this domain. I am pursuing the certificate at McGill university in order to achieve that goal of mine.</string>
+    <string-array name="selectedTheme">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+    </string-array>
+</resources>

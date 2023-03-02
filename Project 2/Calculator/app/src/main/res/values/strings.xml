@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="sign">+</string>
+    <string name="operand">Left</string>
+    <string name="left">Left Operand</string>
+    <string name="right">Right Operand</string>
+    <string name="result">Result</string>
+</resources>

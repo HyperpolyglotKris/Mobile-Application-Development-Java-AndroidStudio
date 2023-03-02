@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyYelp</string>
+    <string-array name="sorting_array">
+        <item>"Price"</item>
+        <item>"Rating"</item>
+    </string-array>
+</resources>
